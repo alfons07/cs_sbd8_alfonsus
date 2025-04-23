@@ -11,6 +11,7 @@ const Navbar = () => {
         <div className="flex items-center space-x-3">
           <img
             src="/src/assets/smartfren-logo.svg"
+            alt="Smartfren"
             className="h-10"
           />
         </div>
